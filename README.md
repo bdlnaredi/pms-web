@@ -16,7 +16,7 @@ A modern web interface for Plex Media Server with support for local network disc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pms-web.git
+   git clone https://github.com/bdlnaredi/pms-web.git
    cd pms-web
    ```
 
